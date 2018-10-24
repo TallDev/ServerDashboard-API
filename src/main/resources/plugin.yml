@@ -1,0 +1,5 @@
+name: mcweb
+version: 1.0.0
+author: Tallerik
+
+main: de.tallerik.mcweb.Main
